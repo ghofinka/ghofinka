@@ -2,6 +2,8 @@
 
 I'm a software engineer and lately focusing on backend development. Currently learning [Go](https://go.dev/doc/).
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ghofinka&theme=ayu-light&hide_border=true)](https://git.io/streak-stats)
+
 [![ghofinka](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghofinka/)](https://www.linkedin.com/in/ghofinka/)
 ![Profile View](https://visitor-badge.laobi.icu/badge?page_id=ghofinka.visitor-badge)
 
